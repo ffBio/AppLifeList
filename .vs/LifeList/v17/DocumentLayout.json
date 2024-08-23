@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabio\\source\\repos\\LifeList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B181164-F208-4F11-8EAE-DC47DA5A7B57}|LifeList.csproj|c:\\users\\fabio\\source\\repos\\lifelist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B181164-F208-4F11-8EAE-DC47DA5A7B57}|LifeList.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B181164-F208-4F11-8EAE-DC47DA5A7B57}|LifeList.csproj|c:\\users\\fabio\\source\\repos\\lifelist\\classes\\gerenciadordetarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B181164-F208-4F11-8EAE-DC47DA5A7B57}|LifeList.csproj|solutionrelative:classes\\gerenciadordetarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B181164-F208-4F11-8EAE-DC47DA5A7B57}|LifeList.csproj|c:\\users\\fabio\\source\\repos\\lifelist\\classes\\tarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B181164-F208-4F11-8EAE-DC47DA5A7B57}|LifeList.csproj|solutionrelative:classes\\tarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B181164-F208-4F11-8EAE-DC47DA5A7B57}|LifeList.csproj|c:\\users\\fabio\\source\\repos\\lifelist\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B181164-F208-4F11-8EAE-DC47DA5A7B57}|LifeList.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B181164-F208-4F11-8EAE-DC47DA5A7B57}|LifeList.csproj|c:\\users\\fabio\\source\\repos\\lifelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B181164-F208-4F11-8EAE-DC47DA5A7B57}|LifeList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B181164-F208-4F11-8EAE-DC47DA5A7B57}|LifeList.csproj|c:\\users\\fabio\\source\\repos\\lifelist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B181164-F208-4F11-8EAE-DC47DA5A7B57}|LifeList.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\LifeList\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\LifeList\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:36:39.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\LifeList\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\LifeList\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:30:17.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\LifeList\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\LifeList\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAADwvzIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:15:11.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tarefas.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\LifeList\\Classes\\Tarefas.cs",
+              "RelativeDocumentMoniker": "Classes\\Tarefas.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\LifeList\\Classes\\Tarefas.cs",
+              "RelativeToolTip": "Classes\\Tarefas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:27:06.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GerenciadorDeTarefas.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\LifeList\\Classes\\GerenciadorDeTarefas.cs",
+              "RelativeDocumentMoniker": "Classes\\GerenciadorDeTarefas.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\LifeList\\Classes\\GerenciadorDeTarefas.cs",
+              "RelativeToolTip": "Classes\\GerenciadorDeTarefas.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvxUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:26:17.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\LifeList\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\LifeList\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:09:07.842Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
